@@ -1,16 +1,48 @@
 ## Hi there 👋
 
-<!--
-**gusma11/gusma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrea Gusmini, a **junior web developer** with a strong passion for building solid and scalable web applications,
+mainly focused on backend development while gradually expanding my skills on the frontend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently working on
+
+* 🤖 **Automatic Amazon monitor** (*https://www.altmonitor.it/*)
+* 🌱 **Learning Angular** for future projects
+* 📚 **Learning Typescript** for future projects
+
+---
+
+## 🛠️ Languages, technologies & tools
+
+### 💻 Languages
+
+* JavaScript
+* HTML5
+* CSS3
+* NoSQL / SQL
+* PHP (basic)
+* JAVA (basic)
+
+### ⚙️ Technologies & Frameworks
+
+* Node.js / Express
+* MongoDB
+* Custom REST APIs
+* React (basic)
+* Angular (basic)
+
+### 🧰 Tools
+
+* VS Code
+* Postman
+* Browser DevTools
+* Git & GitHub
+
+---
+
+## 📬 How to contact me
+
+* 💼 **LinkedIn**: *https://www.linkedin.com/in/andrea-gusmini-561001319/*
+* 📧 **Email**: *andrea11gus@gmail.com*
+* 🌐 **Portfolio**: *work in progress*
