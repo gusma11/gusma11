@@ -9,7 +9,7 @@ mainly focused on backend development while gradually expanding my skills on the
 
 * 🤖 **Automatic Amazon monitor** (*https://www.altmonitor.it/*)
 * 🌱 **Learning Angular and Symfony** for future frontend projects
-* 📚 **Learning Typescript and php** for future backend projects
+* 📚 **Learning Typescript and PHP** for future backend projects
 
 ---
 
