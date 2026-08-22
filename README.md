@@ -21,7 +21,7 @@ mainly focused on backend development while gradually expanding my skills on the
 * HTML5
 * CSS3
 * NoSQL / SQL
-* PHP
+* PHP (basic)
 
 ### ⚙️ Technologies & Frameworks
 
@@ -35,7 +35,6 @@ mainly focused on backend development while gradually expanding my skills on the
 
 * VS Code
 * Postman
-* Browser DevTools
 * Git & GitHub
 
 ---
