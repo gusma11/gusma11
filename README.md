@@ -9,7 +9,7 @@ mainly focused on backend development while gradually expanding my skills on the
 
 * 🤖 **Automatic Amazon monitor** (*https://www.altmonitor.it/*)
 * 🌱 **Learning Angular and Symfony** for future frontend projects
-* 📚 **Learning Typescript and PHP** for future backend projects
+* 📚 **Learning PHP** for future backend projects
 
 ---
 
@@ -17,7 +17,7 @@ mainly focused on backend development while gradually expanding my skills on the
 
 ### 💻 Languages
 
-* JavaScript
+* Typescript
 * HTML5
 * CSS3
 * NoSQL / SQL
